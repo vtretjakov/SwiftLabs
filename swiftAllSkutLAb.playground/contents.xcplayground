@@ -5,5 +5,7 @@
         <page name='06string'/>
         <page name='07arrays'/>
         <page name='08dictionaries'/>
+        <page name='09switch'/>
+        <page name='10func'/>
     </pages>
 </playground>
